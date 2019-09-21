@@ -1,0 +1,37 @@
+{
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Material Theme Darker High Contrast",
+	"editor.fontFamily": "Fira Code",
+	"editor.fontSize": 14.5,
+	"editor.fontLigatures": true,
+	"terminal.integrated.fontSize": 14.5,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.tabSize": 2,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 2,
+	"open-in-browser.default": "chrome",
+	"emmet.includeLanguages": {
+		"vue-html": "html",
+		"javascript": "javascriptreact"
+	},
+	"workbench.colorCustomizations": {
+		"editor.background": "#202020",
+		"editor.lineHighlightBackground": "#282828",
+		"selection.background": "#2d8efc",
+		"editor.selectionBackground": "#3468a3",
+		"terminal.background": "#1a1a1a",
+		"sideBar.background": "#1d1d1d",
+		"sideBar.foreground": "#bbbbbb"
+	},
+	"editor.tokenColorCustomizations": {
+		"numbers": "#ffca2b",
+		"comments": "#888888"
+	},
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"javascript.updateImportsOnFileMove.enabled": "always"
+}
