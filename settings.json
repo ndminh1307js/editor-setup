@@ -32,6 +32,5 @@
 		"comments": "#888888"
 	},
 	"editor.suggestSelection": "first",
-	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 	"javascript.updateImportsOnFileMove.enabled": "always"
 }
