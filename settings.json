@@ -1,7 +1,7 @@
 {
 	"workbench.startupEditor": "newUntitledFile",
 	"workbench.iconTheme": "material-icon-theme",
-	"workbench.colorTheme": "Material Dark Theme",
+	"workbench.colorTheme": "Snazzy",
 	"editor.fontFamily": "Fira Code",
 	"editor.fontSize": 16,
 	"editor.fontLigatures": true,
@@ -9,13 +9,17 @@
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
 	"editor.tabSize": 2,
+	"prettier.tabWidth": 2,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
 	"open-in-browser.default": "chrome",
 	"emmet.includeLanguages": {
 		"vue-html": "html",
 		"javascript": "javascriptreact"
 	},
 	"workbench.colorCustomizations": {
-		"editor.background": "#202020",
+		"editor.background": "#232323",
 		"editor.lineHighlightBackground": "#282828",
 		"selection.background": "#2d8efc",
 		"editor.selectionBackground": "#3468a3",
