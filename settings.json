@@ -1,7 +1,7 @@
 {
 	"workbench.startupEditor": "newUntitledFile",
 	"workbench.iconTheme": "material-icon-theme",
-	"workbench.colorTheme": "Snazzy",
+	"workbench.colorTheme": "Material Dark Theme",
 	"editor.fontFamily": "Fira Code",
 	"editor.fontSize": 16,
 	"editor.fontLigatures": true,
