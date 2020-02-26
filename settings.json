@@ -1,9 +1,9 @@
 {
-  "workbench.startupEditor": "newUntitledFile",
+  "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Material Dark Theme",
-  "editor.fontFamily": "Operator Mono Lig Book",
-  "editor.fontSize": 17,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 16,
   "editor.formatOnPaste": true,
@@ -24,9 +24,7 @@
     "sideBar.foreground": "#bbbbbb"
   },
   "editor.tokenColorCustomizations": {
-    "numbers": "#ffca2b",
-    "comments": "#888888",
-    "strings": "#99ff7a"
+    "comments": "#888888"
   },
   "editor.suggestSelection": "first",
   "javascript.updateImportsOnFileMove.enabled": "always",
