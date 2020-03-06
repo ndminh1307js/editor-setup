@@ -1,14 +1,14 @@
 {
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Material Dark Theme",
+  "workbench.iconTheme": "helium-icon-theme",
+  "workbench.colorTheme": "Snazzy",
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 16,
   "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 15,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "open-in-browser.default": "chrome",
   "emmet.includeLanguages": {
     "vue-html": "html",
@@ -17,14 +17,14 @@
   "workbench.colorCustomizations": {
     "editor.background": "#232323",
     "editor.lineHighlightBackground": "#282828",
-    "selection.background": "#2d8efc",
-    "editor.selectionBackground": "#3468a3",
+    "editorCursor.foreground": "#ffd900",
     "terminal.background": "#1a1a1a",
     "sideBar.background": "#1d1d1d",
     "sideBar.foreground": "#bbbbbb"
   },
   "editor.tokenColorCustomizations": {
-    "comments": "#888888"
+    "comments": "#888888",
+    "numbers": "#ffd900"
   },
   "editor.suggestSelection": "first",
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -36,5 +36,7 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     "**/node_modules": true
-  }
+  },
+  "python.pythonPath": "~/.venv/lpthw/bin/python3",
+  "python.venvPath": "~/.venv"
 }
