@@ -1,42 +1,42 @@
 {
-  "workbench.startupEditor": "none",
-  "workbench.iconTheme": "helium-icon-theme",
-  "workbench.colorTheme": "Snazzy",
-  "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 16,
-  "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 15,
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
-  "editor.tabSize": 4,
-  "open-in-browser.default": "chrome",
-  "emmet.includeLanguages": {
-    "vue-html": "html",
-    "javascript": "javascriptreact"
-  },
-  "workbench.colorCustomizations": {
-    "editor.background": "#232323",
-    "editor.lineHighlightBackground": "#282828",
-    "editorCursor.foreground": "#ffd900",
-    "terminal.background": "#1a1a1a",
-    "sideBar.background": "#1d1d1d",
-    "sideBar.foreground": "#bbbbbb"
-  },
-  "editor.tokenColorCustomizations": {
-    "comments": "#888888",
-    "numbers": "#ffd900"
-  },
-  "editor.suggestSelection": "first",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
-    "**/.DS_Store": true,
-    "**/node_modules": true
-  },
-  "python.pythonPath": "~/.venv/lpthw/bin/python3",
-  "python.venvPath": "~/.venv"
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "helium-icon-theme",
+    "workbench.colorTheme": "Eva Dark",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 14,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "javascript": "javascriptreact"
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#232323",
+        "editor.lineHighlightBackground": "#282828",
+        "editorCursor.foreground": "#ffd900",
+        "terminal.background": "#1a1a1a",
+        "sideBar.background": "#1d1d1d",
+        "sideBar.foreground": "#bbbbbb"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#888888",
+        "numbers": "#ffd900"
+    },
+    "editor.suggestSelection": "first",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    },
+    "python.jediEnabled": false
+    //"python.pythonPath": "~/.venv/lpthw/bin/python3",
+    //"python.venvPath": "~/.venv"
 }
