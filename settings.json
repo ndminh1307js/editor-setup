@@ -14,12 +14,9 @@
         "javascript": "javascriptreact"
     },
     "workbench.colorCustomizations": {
-        "editor.background": "#232323",
-        "editor.lineHighlightBackground": "#282828",
-        "editorCursor.foreground": "#ffd900",
-        "terminal.background": "#1a1a1a",
-        "sideBar.background": "#1d1d1d",
-        "sideBar.foreground": "#bbbbbb"
+        "editor.background": "#202020",
+        "editor.lineHighlightBackground": "#232323",
+        "terminal.background": "#1a1a1a"
     },
     "editor.tokenColorCustomizations": {
         "comments": "#888888",
@@ -36,7 +33,5 @@
         "**/.DS_Store": true,
         "**/node_modules": true
     },
-    "python.jediEnabled": false
-    //"python.pythonPath": "~/.venv/lpthw/bin/python3",
-    //"python.venvPath": "~/.venv"
+    "python.jediEnabled": false,
 }
