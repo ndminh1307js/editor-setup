@@ -2,10 +2,10 @@
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "helium-icon-theme",
   "workbench.colorTheme": "Eva Dark",
-  "editor.fontFamily": "Fira Code Retina",
-  "editor.fontSize": 17,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 15,
   "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontSize": 15,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.tabSize": 4,
@@ -37,5 +37,11 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "window.zoomLevel": 1
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "window.zoomLevel": 1,
+  "files.associations": {
+    "*.html": "html"
+  }
 }
