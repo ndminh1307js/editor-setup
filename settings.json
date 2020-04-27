@@ -1,40 +1,41 @@
 {
-    "workbench.startupEditor": "none",
-    "workbench.iconTheme": "helium-icon-theme",
-    "workbench.colorTheme": "Eva Dark",
-    "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 14,
-    "editor.fontLigatures": true,
-    "terminal.integrated.fontSize": 14,
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.tabSize": 4,
-    "emmet.includeLanguages": {
-        "vue-html": "html",
-        "javascript": "javascriptreact"
-    },
-    "workbench.colorCustomizations": {
-        "editor.background": "#202020",
-        "editor.lineHighlightBackground": "#232323",
-        "terminal.background": "#1a1a1a"
-    },
-    "editor.tokenColorCustomizations": {
-        "comments": "#888888",
-        "numbers": "#ffd900"
-    },
-    "editor.suggestSelection": "first",
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/node_modules": true
-    },
-    "python.jediEnabled": false,
-    "[python]": {
-        "editor.tabSize": 4
-    }
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "helium-icon-theme",
+  "workbench.colorTheme": "Eva Dark",
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontSize": 17,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 17,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#202020",
+    "editor.lineHighlightBackground": "#232323",
+    "terminal.background": "#1a1a1a"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#888888",
+    "numbers": "#ffd900"
+  },
+  "editor.suggestSelection": "first",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "python.jediEnabled": false,
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "window.zoomLevel": 1
 }
