@@ -3,9 +3,9 @@
   "workbench.iconTheme": "helium-icon-theme",
   "workbench.colorTheme": "Eva Dark",
   "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 15,
+  "editor.fontSize": 16,
   "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 16,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.tabSize": 4,
@@ -40,7 +40,7 @@
   "[html]": {
     "editor.formatOnSave": false
   },
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0.5,
   "files.associations": {
     "*.html": "html"
   }
