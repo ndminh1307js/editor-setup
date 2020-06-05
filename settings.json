@@ -1,6 +1,6 @@
 {
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "helium-icon-theme",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Eva Dark",
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 16,
@@ -8,9 +8,10 @@
   "terminal.integrated.fontSize": 16,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.tabSize": 4,
+  "editor.tabSize": 2,
   "emmet.includeLanguages": {
     "vue-html": "html",
+    "django-html": "html",
     "javascript": "javascriptreact"
   },
   "workbench.colorCustomizations": {
@@ -31,7 +32,8 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "**/node_modules": true
+    "**/node_modules": true,
+    "**/__pycache__": true
   },
   "python.jediEnabled": false,
   "[python]": {
@@ -40,7 +42,7 @@
   "[html]": {
     "editor.formatOnSave": false
   },
-  "window.zoomLevel": 0.5,
+  "window.zoomLevel": 0.4,
   "files.associations": {
     "*.html": "html"
   }
