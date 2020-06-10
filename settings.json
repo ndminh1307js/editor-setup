@@ -1,31 +1,23 @@
 {
-  "workbench.startupEditor": "none",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Eva Dark",
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 16,
   "editor.fontLigatures": true,
-  "terminal.integrated.fontSize": 16,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
+  "editor.suggestSelection": "first",
   "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "comments": "#888888",
+    "numbers": "#ffd900"
+  },
   "emmet.includeLanguages": {
     "vue-html": "html",
     "django-html": "html",
     "javascript": "javascriptreact"
   },
-  "workbench.colorCustomizations": {
-    "editor.background": "#202020",
-    "editor.lineHighlightBackground": "#232323",
-    "terminal.background": "#1a1a1a"
+  "files.associations": {
+    "*.html": "html"
   },
-  "editor.tokenColorCustomizations": {
-    "comments": "#888888",
-    "numbers": "#ffd900"
-  },
-  "editor.suggestSelection": "first",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "typescript.updateImportsOnFileMove.enabled": "always",
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -35,15 +27,27 @@
     "**/node_modules": true,
     "**/__pycache__": true
   },
+  "[html]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.disableLanguages": ["javasript"],
   "python.jediEnabled": false,
   "[python]": {
     "editor.tabSize": 4
   },
-  "[html]": {
-    "editor.formatOnSave": false
-  },
+  "terminal.integrated.fontSize": 16,
+  "typescript.updateImportsOnFileMove.enabled": "always",
   "window.zoomLevel": 0.4,
-  "files.associations": {
-    "*.html": "html"
-  }
+  "workbench.colorCustomizations": {
+    "editor.background": "#202020",
+    "editor.lineHighlightBackground": "#232323",
+    "terminal.background": "#1a1a1a"
+  },
+  "workbench.colorTheme": "Eva Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
 }
