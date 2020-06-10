@@ -2,7 +2,6 @@
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 16,
   "editor.fontLigatures": true,
-  "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
@@ -11,7 +10,6 @@
     "numbers": "#ffd900"
   },
   "emmet.includeLanguages": {
-    "vue-html": "html",
     "django-html": "html",
     "javascript": "javascriptreact"
   },
@@ -30,9 +28,6 @@
   "[html]": {
     "editor.formatOnSave": true
   },
-  "[javascript]": {
-    "editor.formatOnSave": false
-  },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prettier.disableLanguages": ["javasript"],
   "python.jediEnabled": false,
@@ -49,5 +44,5 @@
   },
   "workbench.colorTheme": "Eva Dark",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "none",
+  "workbench.startupEditor": "none"
 }
