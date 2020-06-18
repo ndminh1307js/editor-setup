@@ -1,13 +1,13 @@
 {
-  "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 16,
+  "editor.fontFamily": "Input Mono Narrow",
+  "editor.fontSize": 17,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.tokenColorCustomizations": {
     "comments": "#888888",
-    "numbers": "#ffd900"
+    "numbers": "#feff91"
   },
   "emmet.includeLanguages": {
     "django-html": "html",
@@ -29,20 +29,20 @@
     "editor.formatOnSave": true
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "prettier.disableLanguages": ["javasript"],
+  "prettier.disableLanguages": ["javascript"],
   "python.jediEnabled": false,
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 17,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 0.4,
   "workbench.colorCustomizations": {
     "editor.background": "#202020",
     "editor.lineHighlightBackground": "#232323",
     "terminal.background": "#1a1a1a"
   },
-  "workbench.colorTheme": "Eva Dark",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "python.languageServer": "Microsoft",
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)"
 }
