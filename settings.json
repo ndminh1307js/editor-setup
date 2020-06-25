@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "Input Mono Narrow",
+  "editor.fontFamily": "Input",
   "editor.fontSize": 17,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
@@ -30,7 +30,6 @@
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "prettier.disableLanguages": ["javascript"],
-  "python.jediEnabled": false,
   "[python]": {
     "editor.tabSize": 4
   },
@@ -44,5 +43,5 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
   "python.languageServer": "Microsoft",
-  "workbench.colorTheme": "Oceanic Next (dimmed bg)"
+  "workbench.colorTheme": "One Dark Pale"
 }
