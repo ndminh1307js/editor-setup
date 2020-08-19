@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "Iosevka Term SS07",
+  "editor.fontFamily": "Iosevka SS07",
   "editor.fontSize": 18,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
@@ -35,7 +35,7 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontSize": 18,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorCustomizations": {
     "editor.background": "#202020",
@@ -45,5 +45,5 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
   "python.languageServer": "Microsoft",
-  "workbench.colorTheme": "Oceanic_Next"
+  "workbench.colorTheme": "Atom One Dark"
 }
