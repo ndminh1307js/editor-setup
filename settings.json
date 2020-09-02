@@ -38,12 +38,12 @@
   "terminal.integrated.fontSize": 18,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorCustomizations": {
-    "editor.background": "#202020",
-    "editor.lineHighlightBackground": "#232323",
-    "terminal.background": "#1a1a1a"
+    "editor.background": "#282828",
+    "editor.lineHighlightBackground": "#242424",
+    "terminal.background": "#202020"
   },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
   "python.languageServer": "Microsoft",
-  "workbench.colorTheme": "Atom One Dark"
+  "workbench.colorTheme": "Material Dark Theme"
 }
