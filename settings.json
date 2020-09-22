@@ -38,12 +38,9 @@
   "terminal.integrated.fontSize": 18,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorCustomizations": {
-    "editor.background": "#282828",
-    "editor.lineHighlightBackground": "#242424",
     "terminal.background": "#202020"
   },
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "python.languageServer": "Microsoft",
-  "workbench.colorTheme": "Material Dark Theme"
+  "workbench.colorTheme": "Eva Dark"
 }
