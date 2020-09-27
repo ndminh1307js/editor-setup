@@ -1,6 +1,6 @@
 {
-  "editor.fontFamily": "Iosevka SS07",
-  "editor.fontSize": 18,
+  "editor.fontFamily": "Operator Mono Lig Book",
+  "editor.fontSize": 17,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.suggestSelection": "first",
@@ -35,7 +35,7 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 17,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorCustomizations": {
     "terminal.background": "#202020"
