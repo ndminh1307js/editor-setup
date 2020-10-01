@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "Operator Mono Lig Book",
+  "editor.fontFamily": "Iosevka SS07 Extended",
   "editor.fontSize": 17,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
@@ -40,7 +40,7 @@
   "workbench.colorCustomizations": {
     "terminal.background": "#202020"
   },
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "helium-icon-theme",
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Eva Dark"
+  "workbench.colorTheme": "Awesome Material Theme"
 }
