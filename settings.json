@@ -1,6 +1,6 @@
 {
-  "editor.fontFamily": "Iosevka SS07 Extended",
-  "editor.fontSize": 17,
+  "editor.fontFamily": "Fantasque Sans Mono",
+  "editor.fontSize": 18,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.suggestSelection": "first",
@@ -29,18 +29,17 @@
     "editor.formatOnSave": true
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "prettier.disableLanguages": [
-    "javascript"
-  ],
+  "prettier.disableLanguages": ["javascript"],
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.fontSize": 18,
   "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.colorCustomizations": {
     "terminal.background": "#202020"
   },
-  "workbench.iconTheme": "helium-icon-theme",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Awesome Material Theme"
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)"
 }
