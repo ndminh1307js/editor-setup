@@ -1,6 +1,6 @@
 {
-  "editor.fontFamily": "Fantasque Sans Mono",
-  "editor.fontSize": 18,
+  "editor.fontFamily": "Iosevka SS07 Extended",
+  "editor.fontSize": 16,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.suggestSelection": "first",
@@ -22,18 +22,16 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "**/node_modules": true,
     "**/__pycache__": true
   },
   "[html]": {
     "editor.formatOnSave": true
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "prettier.disableLanguages": ["javascript"],
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.colorCustomizations": {
