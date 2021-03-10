@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "Iosevka SS07 Extended",
+  "editor.fontFamily": "Fantasque Sans Mono",
   "editor.fontSize": 16,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
@@ -33,8 +33,8 @@
   },
   "terminal.integrated.fontSize": 16,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.colorCustomizations": {
+    "editor.background": "#222222",
     "terminal.background": "#202020"
   },
   "workbench.iconTheme": "material-icon-theme",
