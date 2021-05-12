@@ -1,7 +1,6 @@
 {
-  "editor.fontFamily": "Inconsolata",
-  "editor.fontSize": 16,
-  "editor.fontWeight": "500",
+  "editor.fontFamily": "Iosevka SS07 Extended",
+  "editor.fontSize": 15,
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
@@ -9,8 +8,7 @@
   "editor.suggestSelection": "first",
   "editor.tabSize": 2,
   "editor.tokenColorCustomizations": {
-    "comments": "#888888",
-    "numbers": "#F472B6"
+    "comments": "#888888"
   },
   "emmet.includeLanguages": {
     "django-html": "html",
@@ -34,7 +32,7 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 15,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.colorCustomizations": {
     "focusBorder": "#333333",
@@ -78,6 +76,7 @@
     "statusBar.noFolderBackground": "#3B82F6",
     "statusBar.noFolderForeground": "#ffffff",
     "list.hoverBackground": "#505050",
+    "list.hoverForeground": "#ffffff",
     "list.activeSelectionBackground": "#505050",
     "list.inactiveSelectionForeground": "#ffffff",
     "gitDecoration.ignoredResourceForeground": "#999999",
@@ -88,12 +87,16 @@
     "settings.textInputForeground": "#ffffff",
     "settings.numberInputBackground": "#333333",
     "settings.numberInputForeground": "#ffffff",
+    "settings.dropdownBackground": "#333333",
+    "settings.dropdownForeground": "#ffffff",
     "welcomePage.background": "#202020",
     "welcomePage.buttonBackground": "#333333",
     "icon.foreground": "#ffffff",
     "panel.background": "#181818"
   },
-  "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Cobalt Next Dark"
+  "workbench.iconTheme": "bearded-icons",
+  "workbench.colorTheme": "Atom Material Theme",
+  "scm.inputFontSize": 14,
+  "workbench.tree.indent": 20
 }
