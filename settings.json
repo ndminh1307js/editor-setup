@@ -1,6 +1,6 @@
 {
-  "editor.fontFamily": "Comic Shanns",
-  "editor.fontSize": 15,
+  "editor.fontFamily": "Inconsolata",
+  "editor.fontSize": 16,
   "editor.fontWeight": "400",
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
@@ -30,12 +30,11 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 16,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Ever Night",
   "scm.inputFontSize": 14,
-  "workbench.tree.indent": 20,
-  "window.zoomLevel": 0.8
+  "workbench.tree.indent": 20
 }
