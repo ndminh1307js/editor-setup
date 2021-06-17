@@ -1,6 +1,6 @@
 {
-  "editor.fontFamily": "Iosevka SS07",
-  "editor.fontSize": 16.5,
+  "editor.fontFamily": "Fantasque Sans Mono",
+  "editor.fontSize": 16,
   "editor.fontWeight": "400",
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
@@ -30,7 +30,7 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "terminal.integrated.fontSize": 16.5,
+  "terminal.integrated.fontSize": 16,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
