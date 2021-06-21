@@ -17,7 +17,7 @@ Plug 'maxmellon/vim-jsx-pretty' " JSX & TSX syntax highlighting for vim
 
 " Completion
 Plug 'mattn/emmet-vim' " emmet for vim
-Plug 'neoclide/coc.nvim' " Nodejs extension host for vim, load extensions like VSCode (require Node v8+)
+Plug 'neoclide/coc.nvim', { 'branch': 'release' } " Nodejs extension host for vim, load extensions like VSCode (require Node v8+)
 Plug 'chun-yang/auto-pairs' " auto close brackets
 
 " Commands

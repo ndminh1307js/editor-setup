@@ -1,0 +1,4 @@
+# ignore plugin bundle and autoload nvim
+**/autoload/
+**/bundle/
+**/undo/

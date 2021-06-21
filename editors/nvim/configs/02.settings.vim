@@ -16,6 +16,7 @@ set hidden
 set nobackup
 set nowritebackup
 set mouse=a " enable mouse for all node
+set cmdheight=2
 
 set incsearch
 set hlsearch
@@ -57,3 +58,7 @@ set undolevels=1000
 set undoreload=10000
 
 set updatetime=300
+set shortmess+=c
+set signcolumn=yes
+
+
