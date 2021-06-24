@@ -16,15 +16,19 @@ let g:NERDTreeShowHidden=1
 syntax enable
 set background=dark
 highlight Normal ctermbg=None
-colorscheme palenight
+colorscheme onedark
 let g:lightline = {
-  \ 'colorscheme': 'palenight'
+  \ 'colorscheme': 'onedark'
   \ }
 set termguicolors
 
 " Indent Guide
+let g:indentLine_setConceal = 0
 let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 let g:indentLine_color_gui = '#444444'
 
 " coc.nvim
 let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier']  " list of CoC extensions needed
+
+" rainbow
+let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle

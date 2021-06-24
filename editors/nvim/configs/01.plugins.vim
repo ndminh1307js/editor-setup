@@ -5,15 +5,22 @@ call plug#begin('~/.config/nvim/bundle')
 Plug 'scrooloose/nerdtree' " nerdtree for vim
 Plug 'itchyny/lightline.vim' " status bar for vim
 Plug 'ryanoasis/vim-devicons' " add icons to nerdtree, airline
+Plug 'tiagofumo/vim-nerdtree-syntax-highlight' " syntax highlighting for nerdtree
+Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive' " git wrapper for vim
+Plug 'tpope/vim-commentary' " commenting code with shortcuts
 
 " Code Display
-Plug 'drewtempelmeyer/palenight.vim' " Palenight color scheme for vim
+Plug 'joshdick/onedark.vim' " Oceanic Next color scheme for vim
 Plug 'yggdroot/indentline' " Display identation levels
 Plug 'luochen1990/rainbow' " bracket colorizer for vim
 Plug 'ap/vim-css-color' " preview colors in source code
-Plug 'herringtondarkholme/yats.vim' " Typescript syntax highlighting
+Plug 'pangloss/vim-javascript' " Javascript syntax highlighting
+Plug 'isruslan/vim-es6' " ES6 syntax highlighting
+Plug 'leafgarland/typescript-vim' " Typescript syntax highlighting
 Plug 'maxmellon/vim-jsx-pretty' " JSX & TSX syntax highlighting for vim
+Plug 'eslint/eslint' " ESLint plugin for vim
+Plug 'octol/vim-cpp-enhanced-highlight' " C++ syntax highlighting
 
 " Completion
 Plug 'mattn/emmet-vim' " emmet for vim
