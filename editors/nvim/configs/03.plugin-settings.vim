@@ -28,7 +28,7 @@ let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 let g:indentLine_color_gui = '#444444'
 
 " coc.nvim
-let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier']  " list of CoC extensions needed
+let g:coc_global_extensions = ['coc-eslint', 'coc-tsserver', 'coc-emmet', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier']  " list of CoC extensions needed
 
 " rainbow
 let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
