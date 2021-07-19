@@ -48,7 +48,7 @@ set shiftround
 set expandtab
 
 set number
-set numberwidth=6
+set numberwidth=4
 
 " Persistent undo
 " Don't forget mkdir folder $HOME/.vim/undo

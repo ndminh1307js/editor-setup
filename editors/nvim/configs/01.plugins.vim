@@ -11,7 +11,7 @@ Plug 'tpope/vim-fugitive' " git wrapper for vim
 Plug 'tpope/vim-commentary' " commenting code with shortcuts
 
 " Code Display
-Plug 'joshdick/onedark.vim' " Oceanic Next color scheme for vim
+Plug 'joshdick/onedark.vim' " One Dark color scheme for vim
 Plug 'yggdroot/indentline' " Display identation levels
 Plug 'luochen1990/rainbow' " bracket colorizer for vim
 Plug 'ap/vim-css-color' " preview colors in source code

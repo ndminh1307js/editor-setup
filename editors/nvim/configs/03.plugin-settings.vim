@@ -15,15 +15,24 @@ let g:NERDTreeShowHidden=1
 " Theme
 syntax enable
 set background=dark
-highlight Normal ctermbg=None
 colorscheme onedark
+hi Normal guibg=NONE ctermbg=NONE
+hi LineNr guibg=NONE ctermbg=NONE
+hi SignColumn guibg=NONE ctermbg=NONE
+hi EndOfBuffer guibg=NONE ctermbg=NONE
 let g:lightline = {
   \ 'colorscheme': 'onedark'
   \ }
 set termguicolors
 
 " Indent Guide
-let g:indentLine_setConceal = 0
+let g:indentLine_setConceal = 2
+" default ''.
+" n for Normal mode
+" v for Visual mode
+" i for Insert mode
+" c for Command line editing, for 'incsearch'
+let g:indentLine_concealcursor = ""
 let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 let g:indentLine_color_gui = '#444444'
 
